@@ -1,4 +1,4 @@
-# VAK-Lab---TEMS-Project
+# VAK-Lab-TEMS-Project
 Repository for my work contributing to the TEMS (Textile Electromechanical Sensing) project within the VAK lab at Northwestern University
 
 The goal of the TEMS project is to fabricate dip-coated conductive yarns to be used in smart sensing knitted textiles. 
